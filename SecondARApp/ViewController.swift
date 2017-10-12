@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  SecondARApp
-//
+// Testing version 2
 //  Created by Ricky Lai on 6/10/2017.
 //  Copyright © 2017 Ricky Lai. All rights reserved.
 //
